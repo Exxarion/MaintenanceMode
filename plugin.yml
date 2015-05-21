@@ -1,0 +1,17 @@
+name: MaintenanceMode
+main: Exxarion\MM
+version: 1.0
+api: [1.11.0, 1.12.0]
+load: POSTWORLD
+author: Exxarion
+description: Put your server in maintenance mode!
+website: http://aplus-craft.tk
+commands:
+ maintenance:
+  description: Enable/Disable Maintenance mode
+  usage: "/maintenance <on/off>"
+  permission: maintenance.cmd
+permissions:
+ maintenance.cmd:
+  description: "Allows users to enable/disable maintenance mode"
+  default: op
