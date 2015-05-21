@@ -50,7 +50,7 @@ class MaintenanceMode extends PluginBase {
               
     }
     
-    public funtion turnOffMM($sender) {
+    public function turnOffMM($sender) {
       //TODO: Finish this
 
 }
