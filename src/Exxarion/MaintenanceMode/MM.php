@@ -1,1 +1,7 @@
-//TODO: Create this
+<?php
+
+namespace MaintenanceMode;
+
+//TODO: Everything
+
+?>
